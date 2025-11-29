@@ -1,0 +1,89 @@
+﻿Microsoft Windows [Version 10.0.26100.4946]
+(c) Microsoft Corporation. All rights reserved.
+
+
+C:\Users\User>cd downloads
+
+
+C:\Users\User\Downloads>mkdir GARBIN_F_OS-LQ1
+
+
+C:\Users\User\Downloads>cd GARBIN_F_OS-LQ1
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1>md "src"
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1>md "common"
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1>md "installer"
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1>md "cache"
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1>md "user"
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1>cd src
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\src>md "a\b\c\d\e\f\g"
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\src>cd ..
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1>cd common
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\common>md "h\i\j\k\l\m"
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\common>cd ..
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1>cd installer
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\installer>md "installer_folder"
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\installer>cd ..
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1>cd cache
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\cache>md a b c d e f g h i j k l m n o p q r s t u v w x y z
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\cache>cd ..
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1>cd cache
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\cache>md 1 2 3 4 5 6 7 8 9 10
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\cache>cd ..
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1>cd user
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\user>md "user_jerico"
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\user>md "user_eliza"
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\user>md "user_juan"
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1\user>cd ..
+
+
+C:\Users\User\Downloads\GARBIN_F_OS-LQ1>
